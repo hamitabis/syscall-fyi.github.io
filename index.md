@@ -6,7 +6,7 @@ comments: false
 Düşük seviyeli konular üzerinde çalışıyor ve öğrendiklerimi sizlerle paylaşıyorum. 
 Amacım, bu alanlara olan ilgiyi artırmak ve Türkiye'deki seviyenin yükselmesini sağlamak.
 
-### Konular
+<h3 class="page__title">İlgilenilen Konular</h1>
 - Derleyici Optimizasyonları
 - Sömürü Kodu Geliştirme
 - Zararlı Yazılım Geliştirme
