@@ -10,6 +10,6 @@ Amacım, bu alanlara olan ilgiyi artırmak ve Türkiye'deki seviyenin yükselmes
 - Derleyici Optimizasyonları
 - Sömürü Kodu Geliştirme
 - Zararlı Yazılım Geliştirme
+- Kriptoviroloji
 - Antivirüs Atlatma Teknikleri
 - Düşük Seviyeli Programlama
-
